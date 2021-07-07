@@ -1,3 +1,4 @@
+![Curva-silueta](https://user-images.githubusercontent.com/78557164/124689286-dcc40e00-de9d-11eb-9b38-7272360d6301.png)
 # Proyectos de Ciencia y Análisis de Datos
 
 ### [Proyecto 1: Clasificador de Clientes de un E-commerce según patrones de consumo con K-Means](https://github.com/parrac22/clasificador-clientes-ecommerce)
@@ -14,4 +15,4 @@
 * Se encuentran 10 grupos de clientes claramente diferenciados, donde ninguno de los grupos supera el 18% del total de observaciones, y el top 5 se encuentra en el rango de 10% a 18% de las observaciones.
 
 
-![](https://github.com/parrac22/Portafolio-Carlos-Parra/blob/main/images/Curva-silueta.png)
+
