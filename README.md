@@ -39,6 +39,7 @@
 
 #### Objetivos
 * Extraer información relevante oculta en dos datasets aplicando diversas técnicas de análisis, basados principalmente en el estado de conservación de las distintas especies. 
+
 ### Logros
 
 * Se encuentra que la mayoria de las especies no estaban bajo estado de conservación.
