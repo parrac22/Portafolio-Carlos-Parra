@@ -24,12 +24,12 @@
 ### [Proyecto 2: Predecir el tipo de cobertura de un bosque con un modelo de aprendizaje supervisado (Kaggel dataset)]
 
 #### Objetivos
-* Predecir la variable Cover_Type para cada una de las filas en el dataset de prueba (565892 observaciones)
-* Obtener un puntaje de precisión satisfactorio con algún modelo de clasificación, preferiblemente superior al 80%
+* Predecir la variable Cover_Type para cada una de las filas en el dataset de prueba (565892 observaciones).
+* Obtener un puntaje de precisión satisfactorio con algún modelo de clasificación, preferiblemente superior al 80%.
 
 ### Logros
-* Creación de Violin Plots para cada variable continua dentro del dataset, que permitió observar a mayor detalle las distribuciones de las mismas
-* Sin aplicar técnicas de normalización de datos, se obtuvó un puntaje de precisión del 86% con un modelo Random Forest
+* Creación de Violin Plots para cada variable continua dentro del dataset, que permitió observar a mayor detalle las distribuciones de las mismas.
+* Sin aplicar técnicas de normalización de datos, se obtuvó un puntaje de precisión del 86% con un modelo Random Forest.
 
 ![features 1](https://user-images.githubusercontent.com/78557164/124693336-dc7b4100-dea4-11eb-9ebb-27e78b447539.PNG)
 
