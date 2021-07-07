@@ -21,7 +21,7 @@
 
 ![Curva-silueta](https://user-images.githubusercontent.com/78557164/124689286-dcc40e00-de9d-11eb-9b38-7272360d6301.png)
 
-### [Proyecto 2: Predecir el tipo de cobertura de un bosque con un modelo de aprendizaje supervisado (Kaggel dataset)](https://github.com/parrac22/Cobertura-Bosques-Kaggle)
+### [Proyecto 2: Predecir el tipo de cobertura de un bosque con un modelo de aprendizaje supervisado (Kaggel dataset, Académico)](https://github.com/parrac22/Cobertura-Bosques-Kaggle)
 
 #### Objetivos
 * Predecir la variable Cover_Type para cada una de las filas en el dataset de prueba (565892 observaciones).
@@ -34,3 +34,19 @@
 ![features 1](https://user-images.githubusercontent.com/78557164/124693336-dc7b4100-dea4-11eb-9ebb-27e78b447539.PNG)
 
 ![features 2](https://user-images.githubusercontent.com/78557164/124693342-e00ec800-dea4-11eb-93e9-0f95ce003d10.PNG)
+
+### [Proyecto 3: Aplicación de técnicas de análisis exploratio de datos a datasets de biodiversidad en parques nacionales de USA (Académico)](https://github.com/parrac22/Analisis-Biodiversidad)
+
+#### Objetivos
+* Extraer información relevante oculta en dos datasets aplicando diversas técnicas de análisis, basados principalmente en el estado de conservación de las distintas especies. 
+### Logros
+
+* Se encuentra que la mayoria de las especies no estaban bajo estado de conservación.
+* Los mamiferos y aves tienen el mayor porcentaje de especies bajo protección.
+* Aplicando pruebas chi cuadrado, se encuentra que los mamiferos y aves tienen una diferencia estadisticamente significativa en comparación a otras categorias cuando se trata del porcentaje de especies bajo protección.
+* Aplicando técnicas de procesamiento de lenguaje natural, se encuentra que el animal mamimefero más recurrente en este dataset es el murcielago, y las observaciones se dieron principalmente en el parque yellowstone.
+
+![biodiversidad 1](https://user-images.githubusercontent.com/78557164/124695208-5fea6180-dea8-11eb-9626-226a689253c1.PNG)
+
+![biodiversidad 2](https://user-images.githubusercontent.com/78557164/124695216-64af1580-dea8-11eb-9e0e-3ea70a0b2ae3.PNG)
+
