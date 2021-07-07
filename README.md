@@ -12,7 +12,7 @@
 * La categorización de los productos y la creación de las columnas de gasto por categoría con respecto al total gastado demostró ser de alta importancia al ser posible encontrar grupos de clientes marcados según su comportamiento en estas dimensiones.
 * El test del puntaje de silueta arroja 10 como el número de clusters óptimos, al aplicarlo sobre modelos creados a partir de las columnas de gasto por categoría.
 * Las métricas agregadas de fecha y consumo pueden otorgar características adicionales de relevancia al momento de crear estrategias de comunicación.
-* Se encuentran 10 grupos de clientes claramente diferenciados, donde ninguno de los grupos supera el 18% del total de observaciones, y el top 5 se encuentra en el rango de 10% a 18% de las observaciones.
+* Se encuentran 10 grupos de clientes claramente diferenciados, donde ninguno de los grupos supera el 18% del total de observaciones, y el top 5 se encuentra en el rango de 10% a 18% del total de observaciones.
 
 
 
