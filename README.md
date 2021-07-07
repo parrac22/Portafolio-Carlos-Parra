@@ -14,6 +14,9 @@
 * Las metricas agregadas de fecha y consumo pueden otorgar caracteristicas adicionales de relevancia al momento de crear estrategias de comuniación.
 * Se encuentran 10 grupos de clientes claramente diferenciados, donde ninguno de los grupos supera el 18% del total de observaciones, y el top 5 se encuentra en el rango de 10% a 18% de las observaciones.
 
+![tabla_datos_agregados](https://user-images.githubusercontent.com/78557164/124692434-367b0700-dea3-11eb-97fa-b44a32c82cde.png)
+
+
 ![Curva-silueta](https://user-images.githubusercontent.com/78557164/124689286-dcc40e00-de9d-11eb-9b38-7272360d6301.png)
 
 
